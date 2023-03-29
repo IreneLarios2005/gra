@@ -1,0 +1,41 @@
+h2{
+  color: orangered;
+  font-size: 70px;
+  
+}
+h3{
+    color: green;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+    p{
+        color: purple;
+        font-size: 20px;
+        font-family: 'Alkatra', cursive;;
+
+    }
+    a{
+      color: pink;
+  }
+
+    ul {
+      color: greenyellow;
+      font-family: 'Alkatra', cursive;;
+    }
+    ol {
+      color: greenyellow;
+      font-family: 'Alkatra', cursive;;
+    }
+
+   
+
+    .bordes-redondeados {
+      border-radius: 50%;
+        width: 300px;
+        border-width: 10px;
+        border-color: green;
+        border-style: inset;
+      
+    }
+    
